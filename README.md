@@ -3,7 +3,9 @@
 
 ![Desktop](https://github.com/glauberbandeira/react_calc_imc/blob/main/src/assets/home_desktop.png)
 
-![Mobile](https://github.com/glauberbandeira/react_calc_imc/blob/main/src/assets/home_mobile.jpeg)
+<p align="center">
+  <img src="https://github.com/glauberbandeira/react_calc_imc/blob/main/src/assets/home_mobile.jpeg)">
+</p>
 
 Project in React + Typescript making a BMI calculator
 
