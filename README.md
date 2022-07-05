@@ -1,9 +1,9 @@
 # BMI calculator
 # Calculadora de IMC
 
-![Desktop](http://lmsotfy.com/so.png)
+![Desktop](https://github.com/glauberbandeira/react_calc_imc/blob/main/src/assets/home_desktop.png)
 
-![Mobile](http://lmsotfy.com/so.png)
+![Mobile](https://github.com/glauberbandeira/react_calc_imc/blob/main/src/assets/home_mobile.jpeg)
 
 Project in React + Typescript making a BMI calculator
 
